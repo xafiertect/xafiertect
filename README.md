@@ -60,7 +60,7 @@
 
 | Repository | Deskripsi | Tech Stack |
 | :--- | :--- | :--- |
-| 🤖 **[SPARK](https://github.com/xafiertect/SPARK-Smart-Profit-Analytics-Recommendation-Kit-)** | Asisten AI otonom UMKM (pembukuan, OCR resi, rekomendasi stok). | `FastAPI` `React` `Supabase` |
+| 🤖 **[SPARK](https://github.com/xafiertect/wrappyt)** | Asisten AI otonom UMKM (pembukuan, OCR resi, rekomendasi stok). | `FastAPI` `React` `Supabase` |
 | 📊 **[E-Commerce Public](https://github.com/xafiertect/E-Commerce-Public)** | Dashboard analisis data e-commerce & segmentasi RFM. | `Python` `Streamlit` `Pandas` |
 | 🔄 **[ETL-PIPELINE](https://github.com/xafiertect/ETL-PIPELINE)** | Pipeline otomatisasi ekstraksi dan transformasi data produk web. | `Python` `Scraping` `ETL` |
 
@@ -68,10 +68,9 @@
 
 ## 📈 GitHub Metrics
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xafiertect&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xafiertect&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xafiertect&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xafiertect&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
