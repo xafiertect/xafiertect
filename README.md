@@ -60,7 +60,7 @@
 
 | Repository | Deskripsi | Tech Stack |
 | :--- | :--- | :--- |
-| 🤖 **[SPARK](https://github.com/xafiertect/wrappyt)** | Asisten AI otonom UMKM (pembukuan, OCR resi, rekomendasi stok). | `FastAPI` `React` `Supabase` |
+| 🦛 **[wrappyt](https://github.com/xafiertect/wrappyt)** | Diagnosis penurunan views YouTube & konsultasi AI berbasis RAG. | `FastAPI` `React` `XGBoost` `Gemini RAG` |
 | 📊 **[E-Commerce Public](https://github.com/xafiertect/E-Commerce-Public)** | Dashboard analisis data e-commerce & segmentasi RFM. | `Python` `Streamlit` `Pandas` |
 | 🔄 **[ETL-PIPELINE](https://github.com/xafiertect/ETL-PIPELINE)** | Pipeline otomatisasi ekstraksi dan transformasi data produk web. | `Python` `Scraping` `ETL` |
 
